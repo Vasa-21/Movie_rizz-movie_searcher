@@ -38,3 +38,5 @@ CSS3
 
 Contributing
 Contributions to MovieSearch are welcome! If you find any issues or have ideas to enhance the app, please feel free to create a pull request or open an issue.
+
+preview link:https://64c623ab06b69b63fe3f91bd--velvety-travesseiro-4a79e6.netlify.app/
